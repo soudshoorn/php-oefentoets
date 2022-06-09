@@ -1,0 +1,13 @@
+td, table {
+    border: 1px solid black;
+}
+
+.insert {
+    width: 200px;
+}
+
+.form__sub {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
